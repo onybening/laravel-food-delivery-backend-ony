@@ -1,4 +1,3 @@
-<p align="center"><h4>Screen Shoot</h4></p>
 <h4>Login</h4>
 <p align="center"><a href="" target="_blank">
 <img alt="create_product.png" src="https://github.com/onybening/laravel-food-delivery-backend-ony/blob/main/login.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
