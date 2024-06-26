@@ -1,4 +1,12 @@
 <p align="center"><a href="" target="_blank">
+<img alt="create_product.png" src="https://github.com/onybening/laravel-food-delivery-backend-ony/blob/main/login.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+</p>
+
+<p align="center"><a href="" target="_blank">
+<img alt="create_product.png" src="https://github.com/onybening/laravel-food-delivery-backend-ony/blob/main/register_restaurant.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+</p>
+    
+<p align="center"><a href="" target="_blank">
 <img alt="create_product.png" src="https://github.com/onybening/laravel-food-delivery-backend-ony/blob/main/create_product.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 </p>
     
